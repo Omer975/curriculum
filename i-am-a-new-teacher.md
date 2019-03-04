@@ -55,15 +55,15 @@ Based on your skillset and availability you will be asked to teach/TA for a spec
 
 **Modules**
 - All modules have their own repository in our Github organization.
-- For more detailed information on the curriculum have a look at our [curriculum on Github](https://github.com/HackYourFuture/curriculum). Here you can find information about when/how and what we teach.
+- For more detailed information on the curriculum have a look at our [curriculum on Github](https://github.com/FooCoding/curriculum). Here you can find information about when/how and what we teach.
 - We divided everyone in our organization into teams, we have a teachers team, a team for every class etc. which all have different permissions.
-- We have a private repository where fellow teachers share their [BestTeachingPractices](https://github.com/HackYourFuture/teaching_tips_tricks), if you are new to teaching or are just curious on what they think works well in class, take a look.
+- We have a private repository where fellow teachers share their [BestTeachingPractices](https://github.com/FooCoding/teaching_tips_tricks), if you are new to teaching or are just curious on what they think works well in class, take a look.
 - If you are teaching a certain module and would like to make changes on the contents of the repo, please create a branch with your name and your fellow teacher, like: `yourname_othername`. Our master branches are protected, if you would like to change something to the default module please make a PR.
 - We highly encourage you to make pull-requests to improve our curriculum!
 
 **Homework**
 - *Trello* is used in the first three modules to hand in homework (first zip files) later links to Github repositories. :information_desk_person:
-- Later on we use [this](https://github.com/HackYourFuture/Git/blob/master/Lecture-3.md) method to hand in homework.
+- Later on we use [this](https://github.com/FooCoding/Git/blob/master/Lecture-3.md) method to hand in homework.
 - All student get feedback on their homework from teachers/Ta's, we do this by commenting on the pull-requests of the students and asking for improvements. 
 
 **Any other questions?**:arrow_right: :information_desk_person:
