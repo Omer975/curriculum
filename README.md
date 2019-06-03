@@ -38,9 +38,9 @@
 - Write basic shell scripts to ease the programming life.
 
 
-## [JavaScript1](https://github.com/FooCoding/JavaScript1/)/[GIT](https://github.com/FooCoding/Git)/ [debugging](https://github.com/FooCoding/debugging)
+## [JavaScript1](https://github.com/FooCoding/JavaScript1/)/[GIT](https://github.com/FooCoding/Git)
 
-> In this module we use Node to run JavaScript.
+> In this module we use the browser to run JavaScript.
 
 ### **Module goals**
 **JavaScript**
@@ -56,6 +56,7 @@ A basic understanding of the following topics:
 - Statements vs Expressions 
 - Loops (for/while)
 - Functions 
+- Assert
 
 **Git**
 
@@ -76,7 +77,7 @@ After this sessions students should:
 - Have an understanding of pull requests and forking workflow.
 
 
-## [JavaScript2](https://github.com/FooCoding/JavaScript2)
+## [JavaScript2](https://github.com/FooCoding/JavaScript2)/Debugging
 
 > JavaScript in the browser with HTML and CSS
 
